@@ -1,3 +1,4 @@
+#7 вариант
 numbers = [1.2, 4.0, 3.5, 8.6, 7.1, 2.0, 10.4, 9.9, 6.2, 5.3]
 
 even_numbers = [num for num in numbers if num % 2 == 0]
@@ -36,3 +37,4 @@ elif negative_count > positive_count:
     print("Теріс сандар көбірек")
 else:
     print("Оң және теріс сандар саны тең")
+
